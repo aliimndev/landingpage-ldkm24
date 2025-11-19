@@ -1,0 +1,13 @@
+{
+  "name": "ldkm-ruby",
+  "version": "1.0.0",
+  "description": "Ruby AI - UV Photography Innovation",
+  "main": "index.html",
+  "scripts": {
+    "start": "serve .",
+    "build": "echo 'Static site - no build needed'"
+  },
+  "keywords": ["uv-photography", "ai", "ruby"],
+  "author": "Kelompok RUBY",
+  "license": "MIT"
+}
